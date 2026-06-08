@@ -17,5 +17,3 @@ pip install -r requirements.txt
 ```cmd
 uv sync
 ```
-
-https://adasieq44.github.io/zad10/src.html
