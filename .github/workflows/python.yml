@@ -42,3 +42,10 @@ jobs:
 
     - name: Deploy to GitHub Pages
       uses: actions/deploy-pages@v4
+
+    - name: Run Main Demo
+      run: uv run python main_demo.py
+    
+    - name: Run Profile Demo
+      run: uv run python main_profile.py
+      
