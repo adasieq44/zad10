@@ -45,5 +45,5 @@ Highlights
 Authors
 ------
 Łukasz Kułacz - initial implementation, testing, documentation
-
+Mateusz Ostajewski - code review, testing, documentation
 """
